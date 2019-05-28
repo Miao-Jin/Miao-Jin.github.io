@@ -1,0 +1,8 @@
+@inproceedings{SPM10HyperbolicCVT,
+  author    = {Guodong Rong and Miao Jin and Xiaohu Guo},
+  title     = {Hyperbolic Centroidal Voronoi Tessellation},
+  booktitle = {Proc. of ACM Symposium of Solid and Physical Modeling (SPM'10)},
+  year      = {2010},
+  pages     = {117-126},
+ 
+  }

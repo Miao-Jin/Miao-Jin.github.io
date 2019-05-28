@@ -1,0 +1,9 @@
+@article{PAMI07ConformalGeometry,
+ author  = {Sen Wang and Yang Wang and Miao Jin and Xianfeng Gu and Dimitris Samaras},
+ title   = {Conformal Geometry and Its Applications on 3D Shape Matching, Recognition, and Stitching},
+ journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)},
+ volume  = {29},
+ number  = {7},
+ year    = {2007},
+ pages   = {1209--1220},
+ }

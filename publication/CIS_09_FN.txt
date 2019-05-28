@@ -1,0 +1,9 @@
+@inproceedings{CIS09FenchelNielsenCoordinates,
+  author  = {Miao Jin and Wei Zeng and Ning Ding and Xianfeng Gu and Shing-Tung Yau},
+  title   = {Computing Fenchel-Nielsen Coordinates in Teichm\"{u}ller Shape Space},
+  journal = {Communications in Information and Systems (CIS)},
+  volume  = {9},
+  number  = {2},
+  year    = {2009},
+  pages   = {213--234},
+  }

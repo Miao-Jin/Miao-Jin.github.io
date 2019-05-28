@@ -1,0 +1,7 @@
+@inproceedings{INFOCOM11Localization,
+    author    = {Miao Jin and Su Xia and Hongyi Wu and Xianfeng Gu},
+    title     = {Scalable and Fully Distributed Localization with Mere Connectivity},
+    booktitle = {Proc. of the 30th Annual IEEE Conference on Computer Communications (INFOCOM'11)},
+    year      = {2011},
+    pages     = {3164-3172},
+    }

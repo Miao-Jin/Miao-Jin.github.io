@@ -1,0 +1,7 @@
+@inproceedings{ISVC08Hyperbolic3Manifold,
+  author    = {Xiaotian Yin and Miao Jin and Feng Luo and Xianfeng Gu},
+  title     = {Discrete Curvature Flow for Hyperbolic 3-Manifold with Complete Geodesic Boundaries},
+  booktitle = {Proc. of International Symposium on Visual Computing (ISVC'08)},
+  year      = {2008},
+  }
+

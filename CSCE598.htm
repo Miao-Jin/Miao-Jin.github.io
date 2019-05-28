@@ -1,0 +1,109 @@
+
+
+<HTML><HEAD><TITLE>CMPS/EECE 598</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=gb2312">
+<META content="MSHTML 6.00.6001.18349" name=GENERATOR>
+<style type="text/css">
+body,td,th {
+	color: #000;
+}
+body {
+	background-color: #CCC;
+}
+</style>
+</HEAD>
+<BODY style="background-image: url('../images/background.jpg')">
+<H1 align=center><span style='font-size:24.0pt;font-family:"Palatino Linotype","serif"'>Digital Geometry Processing</span></H1>
+<h2 align=center><span style='font-family:"Palatino Linotype","serif"'>CSCE 598</span></h2>
+
+<P align=center><A href="http://www.cacs.louisiana.edu/~mjin/CMPS598/CMPS598.htm#information"><span style='font-family:"Palatino Linotype","serif"'>
+<strong>General Information</strong></span></A><strong> | </strong> <A 
+href="http://www.cacs.louisiana.edu/~mjin/CMPS598/CMPS598.htm#assignments"><span style='font-family:"Palatino Linotype","serif"'>
+<strong>Assignments</strong></span></A><strong> | </strong> <A 
+href="http://www.cacs.louisiana.edu/~mjin/CMPS598/CMPS598.htm#mesh"><span style='font-family:"Palatino Linotype","serif"'>
+<strong>Mesh Models &amp; Viewer</strong></span></A><strong> | </strong> <A 
+href="http://www.cacs.louisiana.edu/~mjin/CMPS598/CMPS598.htm#library"><span style='font-family:"Palatino Linotype","serif"'>
+<strong>Mesh Library</strong></span></A><strong> </strong>
+<HR>
+<H3><span style='font-family:"Palatino Linotype","serif"'>General Information</span> <A 
+name=information id="information"></A></H3>
+<STRONG><span style='font-family:"Palatino Linotype","serif"'>Instructor</span></STRONG> <BR>
+<span style='font-family:"Palatino Linotype","serif"'><a href="http://www.cacs.louisiana.edu/~mjin">Miao Jin</a> Office hours: Tuesday 2:00pm - 5:00pm ACTR 237</span><BR>
+<BR>
+<STRONG><span style='font-family:"Palatino Linotype","serif"'>Times &amp; Places</span></STRONG> <BR>
+<span style='font-family:"Palatino Linotype","serif"'>MW 2:30pm - 4:30pm, ACTR 116</span><BR>
+<BR>
+<STRONG><span style='font-family:"Palatino Linotype","serif"'>Objectives</span></STRONG> <BR>
+<span style='font-family:"Palatino Linotype","serif"'>Theory  and applications of discrete (digital) 3D mesh processing, focusing on representations and processing of polygonal geometric models, and 
+applications in computer graphics. <BR>Topics include:
+<UL>
+  <LI>Half edge data structures for meshes
+  <LI>Differential geometry on surfaces  
+  <LI>Computational topology on surfaces  
+  <LI>Mesh parameterization
+  and its applications
+  <LI>Reconstruction
+  <LI>Simplification and multi-resolution representation for efficient rendering 
+  <LI>subdivision  
+  <LI>Smoothing / Fairing 
+  <LI>Mesh deformation and morphing
+  <LI>Mesh editing</LI>
+  <LI>Remeshing </LI>
+</UL>
+The lectures will cover the theoretical aspects, and
+provide hands-on experience. </span>
+<BR><BR><STRONG><span style='font-family:"Palatino Linotype","serif"'>Prerequisites</span></STRONG> <BR>
+<span style='font-family:"Palatino Linotype","serif"'><a href="http://www.cacs.louisiana.edu/~cborst/gfxcourse/">CMPS 415</a> or <a href="http://www.cacs.louisiana.edu/~cborst/gfxcourse/">CMPS/EECE 515</a> Computer Graphics (strongly recommended). 
+<strong>Students should be familiar with C++ programming.</strong></span><BR><BR>
+<STRONG><span style='font-family:"Palatino Linotype","serif"'>Grading</span></STRONG> <BR>
+<!--Performance will be measured as follows:
+<UL>
+<LI> Class Participation (10%) 
+<LI> Programming Assignments (50%): There will be 3 programming assignments, 
+     generally due three weeks after assignment. 
+<LI> Final Project (40%): There will be a final software project summarizing the 
+     course material. 
+<BR> <BR>-->
+<UL><span style='font-family:"Palatino Linotype","serif"'>
+  <LI>40% Assignments (small projects)
+  <LI>20% Final project presentation
+  <LI>30% Final project evaluation and report ( <a href="tool/final_project.rar"> examples</a> of final projects )      
+  <LI>10% Class  participation</span>
+</UL>
+<HR>
+<TABLE id=Table2>
+  <TBODY>
+  
+  <TR>
+    <TD height=250></TD>
+    <TD vAlign=top colSpan=3><h3><STRONG><span style='font-family:"Palatino Linotype","serif"'>Mesh Models and Viewer</span></STRONG> <A 
+name=mesh id="information2"></A></h3>
+      <span style='font-family:"Palatino Linotype","serif"'><p>You can find several mesh models <a href="tool/models.rar">here</a> with .m format. </p>
+      <p>For more mesh models, check these sites. They may have different formats, so you need to use <a href="tool/converter.exe">converter.exe</a> to convert their formats from <a href="http://en.wikipedia.org/wiki/Obj">.obj</a> or <a href="http://en.wikipedia.org/wiki/VRML">.wrl</a> to .m files. Usage of converter.exe can be found here: <a href="tool/converter.txt">converter.txt</a>.</p> </span>
+     <span style='font-family:"Palatino Linotype","serif"'> <p><A href="http://shapes.aim-at-shape.net/index.php"><FONT 
+      face="Arial, Helvetica, sans-serif" size=3>AIM@SHAPE</FONT></A> <BR>        
+            <A 
+      href="http://www.3dcafe.com/"><FONT face="Arial, Helvetica, sans-serif" 
+      size=3>3D Cafe</FONT></A> <BR>        
+            <FONT face="Arial, Helvetica, sans-serif" 
+      size=3><A href="http://www.3dlinks.com/">Ultimate 3D Links</A></FONT> 
+            <BR>
+        <FONT face="Arial, Helvetica, sans-serif" size=3><A 
+      href="http://www.amazing3d.com/">Amazing 3D Graphics</A></FONT>      </p></span>
+     <span style='font-family:"Palatino Linotype","serif"'> <p>Mesh (.m format)viewer:<span class="MsoNormal13" style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 10px; MARGIN-LEFT: 10px; mso-pagination: none"><a href="tool/G3dogl.exe">g3dogl.exe</a>;  usage of g3dogl: <a href="tool/g3dogl.txt">g3dogl.txt</a>; </span><BR> 
+      </p></span></TD>
+    <TD width=21><img src="image/models.png" width="310" height="200"></TD>
+    <TD vAlign=top>&nbsp;</TD></TR></TBODY></TABLE>
+<P>
+<HR>
+<H3><span style='font-family:"Palatino Linotype","serif"'>Mesh Library</span> <A name=library id="library"></A></H3>
+<span style='font-family:"Palatino Linotype","serif"'>For course project, you can download here: <a href="tool/simple_mesh_library.rar">Simple Mesh library</a></span>
+<H3><span style='font-family:"Palatino Linotype","serif"'>Mesh library on the Internet</span></H3>
+<UL>
+  <span style='font-family:"Palatino Linotype","serif"'><LI><a href="http://www.openmesh.org/index.php?id=222">OpenMesh</a>
+  <LI><a href="http://www.cgal.org/">CGAL</a>
+  <LI><a href="http://www.cs.sunysb.edu/~gu/software/MeshLib/index.html">General Purpose Mesh Library</a>  
+  <LI><A href="http://gts.sourceforge.net/">GNU Triangulated Surface Library</A></span>
+  </UL>
+<H3>&nbsp;</H3>
+</BODY></HTML>

@@ -1,0 +1,6 @@
+@Book{chapter_09_curvature_flow,
+  author    = {Xiaotian Yin and Miao Jin and Feng Luo and Xianfeng Gu},
+  title     = {Discrete Curvature Flows for Surfaces and 3-Manifolds},
+  publisher = {"Emerging Trends in Visual Computing", Series: Abel Symposia, Publisher: Springer-Verlag},
+  year      = {2009},
+  }

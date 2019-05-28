@@ -1,0 +1,9 @@
+@inproceedings{SMI09FenchelNielsenCoordinates,
+  author    = {Miao Jin and Wei Zeng and Ning Ding and Xianfeng Gu},
+  title     = {Computing Fenchel-Nielsen Coordinates in Teichm\"{u}ller Shape Space},
+  booktitle = {Proc. of IEEE International Conference on Shape Modeling and Applicat (SMI'09)},
+  year      = {2009},
+  pages     = {193 - 200},
+  }
+
+

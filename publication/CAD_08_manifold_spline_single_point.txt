@@ -1,0 +1,9 @@
+@article{CAD08ManifoldSplineSinglePoint,
+ author  = {Xianfeng Gu and Ying He and Miao Jin and Feng Luo and Hong Qin and Shing-Tung Yau},
+ title   = {Manifold Splines with Single Extraordinary Point},
+ journal = {Computer-Aided Design (CAD)},
+ volume  = {40},
+ number  = {6},
+ year    = {2008},
+ pages   = {676--690},
+ }

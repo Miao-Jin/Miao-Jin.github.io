@@ -1,0 +1,7 @@
+@inproceedings{VIS04PptimalSurfaceParameterization,
+    author    = {Miao Jin and Yalin Wang and Shing-Tung Yau and Xianfeng Gu},
+    title     = {Optimal Global Conformal Surface Parameterization},
+    booktitle = {Proc. of IEEE Visualization (Vis'04)},
+    year      = {2004},
+    pages     = {267--274},
+    }

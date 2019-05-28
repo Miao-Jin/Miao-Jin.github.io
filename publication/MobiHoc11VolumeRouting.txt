@@ -1,0 +1,8 @@
+@inproceedings{MobiHoc11VolumeRouting,
+  author    = {Su Xia and Xiaotian Yin and Hongyi Wu and Miao Jin and Xianfeng Gu},
+  title     = {Deterministic Greedy Routing with Guaranteed Delivery in 3D Wireless Sensor Networks},
+  booktitle = {Proc. of the 12th ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc'11)},
+  year      = {2011},
+  }
+
+

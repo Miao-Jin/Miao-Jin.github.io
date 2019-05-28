@@ -1,0 +1,9 @@
+@article{TVCG08SurfaceRicci,
+ author  = {Miao Jin and Junho Kim and Feng Luo and Xianfeng Gu},
+ title   = {Discrete Surface Ricci Flow},
+ journal = {IEEE Transactions on Visualization and Computer Graphics (TVCG)},
+ volume  = {14},
+ number  = {5},
+ year    = {2008},
+ pages   = {1030--1043},
+ }

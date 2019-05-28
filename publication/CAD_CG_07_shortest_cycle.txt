@@ -1,0 +1,6 @@
+@inproceedings{CADCG07ShortestCycle,
+  author    = {X. Yin and M. Jin and and X. Gu},
+  title     = {Computing shortest cycles using universal covering space},
+  booktitle = {Proc. of the 10th International Conference on Computer-Aided Design and Computer Graphics},
+  year      = {2007},
+  }

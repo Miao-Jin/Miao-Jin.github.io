@@ -1,0 +1,10 @@
+Conformal Invaiant Method (Gu_ICCV03)
+
+		angle              length ratio
+
+torus: 		89.987			2.2916
+knot:		89.981828		25.396258
+rocker:		85.432			4.9928
+teapot:		89.95			3.0264
+kitten:		89.884			2.171639
+elk:		89.918995		3.764930

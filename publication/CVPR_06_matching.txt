@@ -1,0 +1,7 @@
+@inproceedings{CVPR063DSurfaceMatching,
+ author    = {Sen Wang and Yang Wang and Miao Jin and Xianfeng Gu and Dimitris Samaras},
+ title     = {3D Surface Matching and Recognition Using Conformal Geometry},
+ booktitle = {Proc. of IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'06)},
+ year      = {2006},
+ pages     = {2453--2460},
+ }

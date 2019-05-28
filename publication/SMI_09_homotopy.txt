@@ -1,0 +1,7 @@
+@inproceedings{SMI09Homotopy,
+  author    = {Wei Zeng and Miao Jin and Feng Luo and Xianfenf Gu},
+  title     = {Canonical Homotopy Class Representative Using Hyperbolic Structure},
+  booktitle = {Proc. of IEEE International Conference on Shape Modeling and Applicat (SMI'09)},
+  year      = {2009},
+  pages     = {171-178},
+  }

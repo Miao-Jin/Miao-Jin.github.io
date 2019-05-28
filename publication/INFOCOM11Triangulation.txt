@@ -1,0 +1,7 @@
+@inproceedings{INFOCOM11Triangulation,
+    author    = {Hongyu Zhou and Hongyi Wu and Su Xia and Miao Jin and Ning Ding},
+    title     = {A Distributed Triangulation Algorithm for Wireless Sensor Networks on 2D and 3D Surface},
+    booktitle = {Proc. of the 30th Annual IEEE Conference on Computer Communications (INFOCOM'11)},
+    year      = {2011},
+    pages     = {1053-1061},
+    }

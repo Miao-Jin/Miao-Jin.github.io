@@ -1,0 +1,144 @@
+
+
+<HTML><HEAD><TITLE>CMPS/EECE 598</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=gb2312">
+<META content="MSHTML 6.00.6001.18349" name=GENERATOR>
+<style type="text/css">
+body,td,th {
+	color: #000;
+}
+body {
+	background-color: #CCC;
+}
+</style>
+</HEAD>
+<BODY style="background-image: url('../images/background.jpg')">
+<H1 align=center><span style='font-size:24.0pt;font-family:"Palatino Linotype","serif"'>Computer Graphics</span></H1>
+<h2 align=center><span style='font-family:"Palatino Linotype","serif"'>CMPS 415 / CSCE 515</span></h2>
+<p align=center><img src="images/pig_knots.png"
+  alt="pig_knots.png" width="400" height="320"></p>
+<p align=center> <span style='font-family:"Palatino Linotype","serif"'>Celtic knots: cover feature of IEEE TVCG Vol.     16, No. 1, 2010.</span></p>
+
+<P align=center><A href="http://www.ucs.louisiana.edu/~mxj9809/CMPS415.htm#information"><span style='font-family:"Palatino Linotype","serif"'>
+  <strong>General Information</strong></span></A><strong> | </strong> <A 
+href="http://www.ucs.louisiana.edu/~mxj9809/CMPS415.htm#Resources"><span style='font-family:"Palatino Linotype","serif"'>
+  <strong>Resources</strong></span></A><strong> | </strong> <A 
+href="http://www.ucs.louisiana.edu/~mxj9809/CMPS415.htm#mesh"><span style='font-family:"Palatino Linotype","serif"'>
+  <strong>Mesh Models &amp; Viewer</strong></span></A><strong> | </strong> <A 
+href="http://www.ucs.louisiana.edu/~mxj9809/CMPS415.htm#library"><span style='font-family:"Palatino Linotype","serif"'>
+  <strong>Halfedge Mesh Library</strong></span></A><strong> </strong>
+<HR>
+<A 
+name=information id="information"></A><H3><span style='font-family:"Palatino Linotype","serif"'>General Information</span> </H3>
+<p><STRONG><span style='font-family:"Palatino Linotype","serif"'>Instructor</span></STRONG> <BR>
+  <span style='font-family:"Palatino Linotype","serif"'><a href="http://www.ucs.louisiana.edu/~mxj9809/">Dr. Miao Jin</a></span><span style='font-family:"Palatino Linotype","serif"'><BR> Email: mxj9809@louisiana.edu </span><BR>
+  <span style='font-family:"Palatino Linotype","serif"'>Office hours: TR 1:30pm - 3:30pm Oliver Hall 237</span></p>
+
+<p><STRONG><span style='font-family: &quot;Palatino Linotype&quot;, &quot;serif&quot;'>TA</span></STRONG> <BR>
+<span style='font-family:"Palatino Linotype","serif"'> Sam Ekong </span><span style='font-family:"Palatino Linotype","serif"'><BR>Email: samekong@gmail.com</span><BR>
+
+
+  <BR>
+  <STRONG><span style='font-family:"Palatino Linotype","serif"'>Times &amp; Places</span></STRONG> <BR>
+  <span style='font-family:"Palatino Linotype","serif"'>TR 3:30pm - 4:45pm, Oliver Hall 117</span><BR>
+  <BR>
+  <STRONG><span style='font-family:"Palatino Linotype","serif"'>Objectives</span></STRONG> <BR>
+  <span style='font-family:"Palatino Linotype","serif"'>This course will cover the basic concepts, mathematical foundations, fundamental theory and algorithms, software techniques, hardware and system issues, and application examples of computer graphics. 
+</span></p>
+<p><span style='font-family:"Palatino Linotype","serif"'>Emphasize a ``hands-on'' approach to both the better understanding of graphics concept/theory/algorithms and the effective use of graphics techniques in various applications.
+ </span>
+  <BR><BR>
+  <STRONG><span style='font-family:"Palatino Linotype","serif"'>Prerequisites</span></STRONG> <BR>
+  <span style='font-family:"Palatino Linotype","serif"'>Computer science background: data structures, programming languages and skills (such as C/C++).  
+  </span><BR>
+    <span style='font-family:"Palatino Linotype","serif"'>Mathematics background: linear algebra, and basic analytic geometry. </span><BR><BR>
+    
+    <STRONG><span style='font-family:"Palatino Linotype","serif"'>References</span></STRONG> <BR>
+  <span style='font-family:"Palatino Linotype","serif"'>“Interactive Computer Graphics: a Top-Down Approach With Shader-Based OpenGL”, Edward Angel, Dave Shreiner, 6th edition, Addison-Wesley, 2012.  
+  </span><BR>
+    <span style='font-family:"Palatino Linotype","serif"'>“Computer Graphics with OpenGL”, Hearn, Baker, and Carithers, 4th Edition. Prentice Hall, 2011. 
+ </span><BR>
+  <span style='font-family:"Palatino Linotype","serif"'>“Open GL Programming Guide”, Kessenich, Sellers, Shreiner, 9th Edition. Addison-Wesley, 2016. 
+ </span><BR>
+ <span style='font-family:"Palatino Linotype","serif"'>“Computer Graphics: Principles and Practice”, James D. Foley, Andries van Dam, Steven K. Feiner, John F. Hughes, 2nd edition, Addison-Wesley 1995. 
+ </span><BR><BR>
+  
+ <STRONG><span style='font-family:"Palatino Linotype","serif"'>Grading</span></STRONG></p>
+<UL><span style='font-family:"Palatino Linotype","serif"'>
+  <LI>30% Assignments 
+  <LI>40% Projects 
+  <LI>20% Final demo
+  <LI>5% Report 
+  <LI>5% Class  participation</span>
+</UL>
+
+  <STRONG><span style='font-family:"Palatino Linotype","serif"'>Projects</span></STRONG></p>
+<UL><span style='font-family:"Palatino Linotype","serif"'>
+  <LI>Use OpenGL to develop a basic triangular mesh viewer. Provide interactive mouse control for rotating, zooming, and translating objects. Implement Phong lighting, Phong shading, and transparency. 
+ 
+  <LI>Implement a basic ray tracer. Scene objects should include spheres and triangular mesh models.Scene should include refractive, reflective, and diffused models.
+ 
+  <LI>Triangular mesh parametrization and texture mapping
+
+</span>
+</UL>
+<HR>
+<A name=library id="Resources"></A><H3><span style='font-family:"Palatino Linotype","serif"'>Resources</span> </H3>
+<p style="font-family:&quot;Palatino Linotype&quot;,&quot;serif&quot;">SIGGRAPH course - An Introduction to OpenGL Programming by Dr. Edward Angel: <a href="https://www.youtube.com/watch?v=6-9XFm7XAT8">video</a>   
+</p>
+<p style="font-family:&quot;Palatino Linotype&quot;,&quot;serif&quot;">SIGGRAPH course - High Quality Rendering using Ray Tracing and Photon Mapping by Dr. Per H. Christensen and Dr. Henrik Wann Jensen: <a href="https://graphics.pixar.com/library/HQRenderingCourse/paper.pdf">pdf</a> </p>
+
+<p style="font-family:&quot;Palatino Linotype&quot;,&quot;serif&quot;">Ray Tracing Software: <a href="http://www.povray.org/">Povray</a></p>
+<HR>
+<TABLE id=Table2>
+  <TBODY>
+  
+  <TR>
+    <TD height=250></TD>
+    <TD vAlign=top colSpan=3><A 
+name=mesh id="information2"></A><h3><STRONG><span style='font-family:"Palatino Linotype","serif"'>Mesh Models</span></STRONG> </h3>
+      
+        <p><span style='font-family:"Palatino Linotype","serif"'>Mesh models  with .m format</span></p>
+        
+        <UL><span style='font-family:"Palatino Linotype","serif"'>
+  <LI>Animal:  
+      <a href="model/bunny.rar">Bunny</a>, <a href="model/camel.rar">Camel</a>, <a href="model/frog.rar">Frog</a>, <a href="model/pig.nf60k.uv.rar">Pig</a>
+  <LI>Human: <a href="model/bima50k.rar">Bima</a>, <a href="model/buddha.nf30k.rar">Buddha</a>, <a href="model/david.nf50k.conformal.rar">David (with spherical coordinates)</a>, <a href="model/Max.rar">Max</a>, <a href="model/venus.rar">Venus</a>, <a href="model/skull.rar">Skull</a>
+  <LI>Topology: <a href="model/torus_normal.rar">Torus (with normal)</a>, <a href="model/knot.rar">Knot</a>, <a href="model/eight.rar">Eight</a> </span>
+</UL>
+     
+
+           <span style='font-family:"Palatino Linotype","serif"'> 
+           <h3><STRONG>Mesh Viewer</STRONG> (.m format)</h3>
+           <p><span class="MsoNormal13" style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 10px; MARGIN-LEFT: 10px; mso-pagination: none"><a href="tool/G3dOGL.exe">G3dOGL.exe</a></span></p>
+           <p><span class="MsoNormal13" style="MARGIN-TOP: 0px; MARGIN-BOTTOM: 10px; MARGIN-LEFT: 10px; mso-pagination: none">Usage of G3dOGL: <a href="tool/G3dOGL.txt">G3dOGL.txt</a></span></p>
+           </span>
+      
+      
+      <p>For more mesh models, check these sites. They may have different formats, so you need to use <a href="tool/converter.exe">converter.exe</a> to convert their formats from <a href="http://en.wikipedia.org/wiki/Obj">.obj</a> or <a href="http://en.wikipedia.org/wiki/VRML">.wrl</a> to .m files. Usage of converter.exe can be found here: <a href="tool/converter.txt">converter.txt</a>.</p> </span>
+     <span style='font-family:"Palatino Linotype","serif"'> <p><A href="http://shapes.aim-at-shape.net/index.php"><FONT 
+      face="Arial, Helvetica, sans-serif" size=3>AIM@SHAPE</FONT></A> <BR>        
+            <A 
+      href="http://www.3dcafe.com/"><FONT face="Arial, Helvetica, sans-serif" 
+      size=3>3D Cafe</FONT></A> <BR>        
+            <FONT face="Arial, Helvetica, sans-serif" 
+      size=3><A href="http://www.3dlinks.com/">Ultimate 3D Links</A></FONT> 
+            <BR>
+        <FONT face="Arial, Helvetica, sans-serif" size=3><A 
+      href="http://www.amazing3d.com/">Amazing 3D Graphics</A></FONT>      </p></span>
+
+
+   </TR></TBODY></TABLE>
+<P>
+<HR><A name=library id="library"></A>
+<H3><span style='font-family:"Palatino Linotype","serif"'>Halfedge Mesh Library</span> </H3>
+<span style='font-family:"Palatino Linotype","serif"'>For course project, you can download here: <a href="tool/simple_mesh_library.rar">Simple Mesh library</a></span>
+<H3><span style='font-family:"Palatino Linotype","serif"'>Halfedge Mesh library on the Internet</span></H3>
+<UL>
+  <span style='font-family:"Palatino Linotype","serif"'><LI><a href="http://www.openmesh.org/index.php?id=222">OpenMesh</a>
+  <LI><a href="http://www.cgal.org/">CGAL</a>
+  <LI><a href="http://www.cs.sunysb.edu/~gu/software/MeshLib/index.html">General Purpose Mesh Library</a>  
+  <LI><A href="http://gts.sourceforge.net/">GNU Triangulated Surface Library</A></span>
+</UL>
+<H3>&nbsp;</H3>
+</BODY></HTML>

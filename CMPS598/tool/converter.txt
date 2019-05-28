@@ -1,0 +1,9 @@
+Usage of converter: 
+
+converter.exe -obj2m *.obj *.m    //convert .obj file to .m file
+
+converter.exe -tobj2m *.obj *.m    //convert textured .obj file to .m file
+
+converter.exe -wrl2m *.wrl *.m    //convert .wrl file to .m file
+
+converter.exe -off2m *.off *.m    //convert .off file to .m file

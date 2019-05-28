@@ -1,0 +1,9 @@
+@article{TVCG10MatricRoSy,
+ author  = {Yu-Kun Lai and Miao Jin and Xuexiang Xie and Ying He and Jonathan Palacios and Eugene Zhang and Shi-Min Hu and Xianfeng Gu},
+ title   = {Metric-Driven RoSy Fields Design and Remeshing},
+ journal = {IEEE Transactions on Visualization and Computer Graphics (TVCG)},
+ volume  = {16},
+ number  = {1},
+ year    = {2010},
+ pages   = {95--108},
+ }

@@ -1,0 +1,9 @@
+@article{CAGD_07_accuracy,
+ author  = {Junfei Dai and Wei Luo and Miao Jin and Wei Zeng and Ying He and Shing-Tung Yau and Xianfeng Gu},
+ title   = {Geometric accuracy analysis for discrete surface approximation},
+ journal = {Computer-Aided Geometric Design (CAGD)},
+ volume  = {24},
+ number  = {6},
+ year    = {2007},
+ pages   = {323--338},
+ }

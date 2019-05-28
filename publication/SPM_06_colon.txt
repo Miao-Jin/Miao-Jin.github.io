@@ -1,0 +1,7 @@
+@inproceedings{SPM06ColonFlattening,
+  author    = {Wei Hong and Xianfeng Gu and Feng Qiu and Miao Jin and Arie Kaufman},
+  title     = {Conformal Virtual Colon Flattening},
+  booktitle = {Proc. of ACM Symposium on Solid and Physical Modeling (SPM'06)},
+  year      = {2006},
+  pages     = {85--93},
+  }

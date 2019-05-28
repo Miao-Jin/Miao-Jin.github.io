@@ -1,0 +1,8 @@
+@article{MS07SurfaceRicciFlow,
+ author  = {Miao Jin and Junho Kim and Xianfeng David Gu},
+ title   = {Discrete Surface Ricci Flow: Theory and Applications},
+ journal = {Mathematics of Surfaces XII},
+ volume  = {4647},
+ year    = {2007},
+ pages   = {209--232},
+ }

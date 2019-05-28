@@ -1,0 +1,7 @@
+@inproceedings{ICDCS10BoundaryDetection,
+    author    = {Hongyu Zhou and Su Xia and Miao Jin and Hongyi Wu},
+    title     = {Localized Algorithm for Precise Boundary Detection in 3D Wireless Networks},
+    booktitle = {Proc. of the 30th International Conference on Distributed Computing Systems (ICDCS'10)},
+    year      = {2010},
+    pages     = {744-753},
+    }

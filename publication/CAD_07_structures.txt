@@ -1,0 +1,10 @@
+@article{CAD07GeometricStructures,
+ author  = {Miao Jin and Feng Luo and 
+Xianfeng Gu},
+ title   = {Computing General Geometric Structures on Surfaces Using Ricci Flow},
+ journal = {Computer-Aided Design (CAD)},
+ volume  = {39},
+ number  = {8},
+ year    = {2007},
+ pages   = {663--675},
+ }

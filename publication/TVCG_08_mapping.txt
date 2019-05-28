@@ -1,0 +1,9 @@
+@article{TVCG08OptimalSurfaceMapping,
+  author  = {Xin Li and Yunfan Bao and Xiaohu Guo and Miao Jin and Xianfeng Gu and Hong Qin},
+  title   = {Globally Optimal Surface Mapping for Surfaces with Arbitrary Topology},
+  journal = {IEEE Transaction on Visualization and Computer Graphics (TVCG)},
+  volume  = {14},
+  number  = {4},
+  year    = {2008},
+  pages   = {805--819},
+  }

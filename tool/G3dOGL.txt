@@ -1,0 +1,30 @@
+G3dOGL.exe -?
+
+Specifically:
+
+1. left mouse: rotation 
+   right mouse: scaling 
+   middle mouse: translation 
+
+2. D + e: visualize the triangulation 
+   D + s: show frame
+   D + r: change all face normal, so that inside surface 
+   rendered with green becomes outside
+
+3. ii: (hide text)
+
+4. E: eneter edit status
+   In edit mode, put arrow on the target edge or face or vertex and do the following:
+
+   t: sharp edge	
+   s: edge split
+   w: edge swap
+   f: remove one face
+   v: remove one vertex
+
+   @@: save changes to the mesh file
+
+5. r: updating 
+
+6. g3dogl.exe **_uv.m -texturemap check.bmp
+   D + t, visualize the texture mapping.

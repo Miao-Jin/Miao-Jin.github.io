@@ -1,0 +1,7 @@
+@inproceedings{SPM07ManifoldSplineSinglePoint,
+  author    = {Xianfeng Gu and Ying He and Miao Jin and Feng Luo and Hong Qin and Shing-Tung Yau},
+  title     = {Manifold splines with single extraordinary point},
+  booktitle = {Proc. of ACM Symposium on Solid and Physical Modeling (SPM'07)},
+  year      = {2007},
+  pages     = {61--72},
+  }

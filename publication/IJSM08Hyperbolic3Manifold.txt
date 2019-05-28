@@ -1,0 +1,9 @@
+@article{IJSM08Hyperbolic3Manifold,
+ author  = {Xiaotian Yin and Miao Jin and Feng Luo and Xianfeng Gu},
+ title   = {Computing Constant-Curvature Metrics for Hyperbolic 3-Manifolds with Boundaries Using Truncated Tetrahedral Meshes},
+ journal = {International Journal of Shape Modeling (IJSM)},
+ volume  = {14},
+ number  = {2},
+ year    = {2008},
+ pages   = {169--188},
+ }

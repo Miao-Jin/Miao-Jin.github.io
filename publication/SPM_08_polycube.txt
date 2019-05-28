@@ -1,0 +1,7 @@
+@inproceedings{SPM08PolycubeMap,
+  author    = {Hongyu Wang and Miao Jin and Ying He and Xianfeng Gu and Hong Qin},
+  title     = {User-controllable polycube map for manifold spline construction},
+  booktitle = {Proc. of ACM Symposium on Solid and Physical Modeling (SPM'08)},
+  year      = {2008},
+  pages     = {397--404},
+  }

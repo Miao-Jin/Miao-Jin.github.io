@@ -1,0 +1,7 @@
+@inproceedings{SPM06SurfaceHyperbolicStructure,
+  author    = {Miao Jin and Feng Luo and Xianfeng Gu},
+  title     = {Computing Surface Hyperbolic Structure and Real Projective Structure},
+  booktitle = {Proc. of ACM Symposium on Solid and Physical Modeling (SPM'06)},
+  year      = {2006},
+  pages     = {105--116},
+  }

@@ -1,0 +1,7 @@
+@inproceedings{ICCM07ComputationalConformalGeometry,
+  author    = {Xianfeng Gu and Miao Jin and Junho Kim and Shing-Tung Yau},
+  title     = {Computational Conformal Geometry Applied in Engineering Fields},
+  booktitle = {ICCM },
+  year      = {2007},
+  }
+

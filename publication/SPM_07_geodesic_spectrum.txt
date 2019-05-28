@@ -1,0 +1,7 @@
+@inproceedings{SPM07SurfaceGeodesicSpectrum,
+  author    = {Miao Jin and Feng Luo and Shing-Tung Yau and Xianfeng Gu},
+  title     = {Computing geodesic spectra of surfaces},
+  booktitle = {Proc. of ACM Symposium on Solid and Physical Modeling (SPM'07)},
+  year      = {2007}
+  pages     = {387-393},
+  }

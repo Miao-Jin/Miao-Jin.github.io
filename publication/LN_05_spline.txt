@@ -1,0 +1,8 @@
+@article{LN05Spline,
+ author  = {Ying He and Miao Jin and Xianfeng Gu and Hong Qin},
+ title   = {A C1 Globally Interpolatory Spline of Arbitrary Topology},
+ journal = {Lecture Notes in Computer Science},
+ volume  = {3752},
+ year    = {2005},
+ pages   = {295--306},
+ }

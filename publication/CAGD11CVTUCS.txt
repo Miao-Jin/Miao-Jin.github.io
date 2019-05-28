@@ -1,0 +1,9 @@
+@article{CAGD11CVTUCS,
+ author  = {Guodong Rong and Miao Jin and Liang Shuai and Xiaohu Guo},
+ title   = {Centroidal Voronoi Tessellation in Universal Covering Space of Manifold Surfaces},
+ journal = {Computer-Aided Geometric Design (CAGD)},
+ volume  = {28},
+ number  = {8},
+ year    = {2011},
+ pages   = {475--496},
+ }

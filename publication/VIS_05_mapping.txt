@@ -1,0 +1,7 @@
+@inproceedings{VIS05Topology-drivenSurfaceMappings,
+    author    = {Christopher Carner and Miao Jin and Xianfeng Gu and Hong Qin},
+    title     = {Topology-driven Surface Mappings with Robust Feature Alignment},
+    booktitle = {Proc. of IEEE Visualization (Vis'05)},
+    year      = {2005},
+    pages     = {543--550},
+    }

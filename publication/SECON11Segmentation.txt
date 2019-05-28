@@ -1,0 +1,9 @@
+@inproceedings{SECON11Segmentation,
+  author    = {Hongyu Zhou and Ning Ding and Miao Jin and Su Xia and Hongyi Wu},
+  title     = {Distributed Algorithms for Bottleneck Identification and Segmentation in 3D Wireless Sensor Networks},
+  booktitle = {Proc. of the 8th Annual IEEE Communications Society Conference on Sensor, Mesh and Ad Hoc Communications and Networks (SECON'11)},
+  year      = {2011},
+  pages     = {494 - 502},
+  }
+
+

@@ -1,0 +1,9 @@
+@article{TVCG09ShapeSpace,
+ author  = {Miao Jin and Wei Zeng and Feng Luo and and Xianfeng Gu},
+ title   = {Computing Teichm\"{u}ller Shape Space},
+ journal = {IEEE Transactions on Visualization and Computer Graphics (TVCG)},
+ volume  = {15},
+ number  = {3},
+ year    = {2009},
+ pages   = {504--517},
+ }

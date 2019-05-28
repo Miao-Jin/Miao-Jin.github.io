@@ -1,0 +1,7 @@
+@inproceedings{ISVC08FundamentalGroup,
+  author    = {Junho Kim and Miao Jin and Qian-Yi Zhou and Feng Luo and Xianfeng Gu},
+  title     = {Computing Fundamental Group of General 3-manifold},
+  booktitle = {Proc. of International Symposium on Visual Computing (ISVC'08)},
+  year      = {2008},
+  }
+

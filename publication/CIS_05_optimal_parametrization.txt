@@ -1,0 +1,9 @@
+@article{CIS05OptimalParametrization,
+ author  = {Miao Jin and Yalin Wang and Xianfeng Gu and Shing-Tung Yau},
+ title   = {Optimal Global Conformal Surface Parameterization for Visualization},
+ journal = {Communications in Information and Systems (CIS)},
+ volume  = {4},
+ number  = {2},
+ year    = {2005},
+ pages   = {117--134},
+ }

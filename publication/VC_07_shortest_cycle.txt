@@ -1,0 +1,9 @@
+@article{VC07ShortestCycle,
+ author  = {Xiaotian Yin and Miao Jin and Xianfeng Gu},
+ title   = {Computing shortest cycles using universal covering space},
+ journal = {The Visual Computer},
+ volume  = {23},
+ number  = {12},
+ year    = {2007},
+ pages   = {999--1004},
+ }
