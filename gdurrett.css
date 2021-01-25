@@ -1,6 +1,6 @@
 /* BODY AND WRAPPER */
 body {
-  background-color: #838F98;
+  background-color: rgb(125, 200, 255);
   border-style: hidden;
   font-family: Helvetica, sans-serif;
   font-weight: 350;
@@ -13,7 +13,7 @@ body {
 }
 
 #wrapper {
-  background-color: #CCC;
+  background-color: rgb(240, 250, 255);
 	/* border-style: solid;
   border-width: 1px;
   border-radius:5px;
